@@ -30,6 +30,6 @@ abbr -a gc " git clone"
 
 abbr -a tn " tmux new -s"
 abbr -a ta " tmux a -t"
-abbr -a tk " tmux kill-session -t"
-abbr -a ts " tmux kill-server"
+abbr -a tks " tmux kill-session -t"
+abbr -a tk " tmux kill-server"
 abbr -a tl " tmux ls"
