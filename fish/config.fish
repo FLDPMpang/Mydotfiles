@@ -1,6 +1,7 @@
 set PATH ~/Github/FixVhdWr $PATH
 
 abbr -a ra ranger
+abbr -a cl clifm
 abbr -a nv nvim
 abbr -a lg lazygit
 abbr -a nf "neofetch|lolcat"
@@ -38,3 +39,5 @@ abbr -a tk " tmux kill-server"
 abbr -a tl " tmux ls"
 
 abbr -a pc " proxychains "
+
+abbr -a climat " matlab -nodisplay -nojvm "
