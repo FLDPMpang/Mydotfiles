@@ -1,0 +1,16 @@
+/* Rofi config file */
+configuration {
+    font: "思源黑体CN 16";
+    show-icons: true;
+    display-window: "Window";
+    display-drun: "Search";
+}
+
+@theme "oxide"
+
+listview {
+    lines: 12;
+}
+
+
+
