@@ -1,10 +1,15 @@
 set PATH ~/Github/FixVhdWr $PATH
+set PATH ~/.emacs.d/bin $PATH
 
+
+abbr -a cl clear
+abbr -a co code
 abbr -a ra ranger
-abbr -a cl clifm
+abbr -a cf clifm
 abbr -a nv nvim
 abbr -a lg lazygit
 abbr -a nf "neofetch|lolcat"
+abbr -a em emacs
 
 
 abbr -a ps " sudo pacman -S"
@@ -23,14 +28,14 @@ abbr -a ys " yay -S"
 abbr -a ysyyu " yay -Syyu"
 abbr -a yss " yay -Ss"
 
-abbr -a cl clear
-abbr -a co code
 
 abbr -a gra " git remote add"
 abbr -a grr " git remote rm"
 abbr -a gre " git remote rename"
 abbr -a gi " git init"
 abbr -a gc " git clone"
+abbr -a gch " git cheakout"
+abbr -a gr " git rebase"
 
 abbr -a tn " tmux new -s"
 abbr -a ta " tmux a -t"
