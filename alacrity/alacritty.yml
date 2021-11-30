@@ -4,7 +4,7 @@ window:
   title: 终端
 
   # 是否允许终端的应用更改窗口标题
-  dynamic_title: false
+  dynamic_title: true
 
 # 背景半透明
 background_opacity: 0.8
