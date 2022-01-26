@@ -2,12 +2,11 @@ window:
   startup_mode: Maximized
   # 窗口标题
   title: 终端
-
+  # 背景半透明
+  opacity: 0.8
   # 是否允许终端的应用更改窗口标题
   dynamic_title: true
 
-# 背景半透明
-background_opacity: 0.8
 
 # 实时重载配置文件，不用重启测试配置选项
 live_config_reload: true
