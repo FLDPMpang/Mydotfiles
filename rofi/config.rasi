@@ -11,9 +11,11 @@ configuration {
   display-run: "运行 ";
   display-drun: "搜索 ";
   display-window: "窗口 ";
+  display-filebrowser: "文件 ";
+  display-ssh: "SSH ";
   drun-display-format: "{icon} {name}";
   font: "JetBrainsMono Nerd Font Medium 14";
-  modi: "window,run,drun";
+  modi: "window,run,drun,filebrowser,ssh";
   show-icons: true;
 }
 
@@ -39,7 +41,7 @@ configuration {
   aurora-5: #B48EAD;
 
   background-color: @polar-1;
-  
+
   border: 0;
   margin: 1;
   padding: 0;

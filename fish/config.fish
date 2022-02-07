@@ -24,9 +24,13 @@ abbr -a pqi " sudo pacman -Qi"
 abbr -a pqdt " sudo pacman -Qdt"
 abbr -a pf " sudo pacman -F"
 abbr -a pfy " sudo pacman -Fy"
-abbr -a ys " yay -S"
-abbr -a ysyyu " yay -Syyu"
-abbr -a yss " yay -Ss"
+
+abbr -a pa " paru "
+abbr -a pasyyu " paru -Syyu"
+abbr -a pas " paru -Ss"
+abbr -a pasua " paru -Sua "
+abbr -a paqua " paru -Qua "
+abbr -a pagc " paru -Gc "
 
 
 abbr -a gra " git remote add"
